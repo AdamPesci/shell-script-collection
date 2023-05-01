@@ -1,2 +1,2 @@
 # shell-script-collection
-A collection of script utilities
+A collection of utility scripts
